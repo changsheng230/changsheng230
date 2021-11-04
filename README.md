@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @changsheng230
-- 👀 I’m interested in c++ and linux programing and i identify myself as a good software craftsman.
+- 👀 I’m interested in C++ and Linux programming.
 - 🌱 I’m currently learning java, kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
